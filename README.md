@@ -7,7 +7,7 @@
 ![](./technologies.png)
 
 
-## Ger Started 
+## Get Started 
 
 ```js
 cd sooqna-shop-react
