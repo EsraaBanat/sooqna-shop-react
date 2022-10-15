@@ -1,0 +1,10 @@
+#productCard {
+    width: 21rem;
+    margin: 25px 0;
+}
+
+.profile:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
